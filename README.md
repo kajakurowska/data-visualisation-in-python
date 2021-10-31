@@ -1,2 +1,1 @@
-# data-visualisation-in-python
-Data Visualization in Python (excercises) 
+# Data Visualization in Python (excercises) 
